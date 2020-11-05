@@ -1,0 +1,27 @@
+.mainheader {
+  background-color: whitesmoke;
+  display: flex;
+}
+.mainheader_nav {
+  flex: 1;
+  justify-content: space-evenly;
+}
+.mainheader_link {
+  color: black;
+}
+.mainheader_option {
+  display: flex;
+  margin-left: 70px;
+  padding: 0px;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.mainheader_option1 {
+  display: flex;
+  margin-right: 200px;
+}
+.mainheader_option2 {
+  display: flex;
+  margin-right: 300px;
+}
